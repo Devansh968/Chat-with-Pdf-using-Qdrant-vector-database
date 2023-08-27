@@ -10,10 +10,15 @@ Prerequisites
 # Before running the project, make sure you have the following prerequisites:
 
 Python 3.10.11
+
 qdrant-client==1.3.1
+
 Langchain 0.0.239
+
 Streamlit 1.25.0
+
 openai==0.27.8
+
 tiktoken
 
 ![image](https://github.com/Devansh968/Pdf-reader-langchain/assets/90167731/a73c3b18-88cd-493c-8a42-03c3d357e033)
