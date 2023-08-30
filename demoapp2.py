@@ -12,8 +12,8 @@ import fitz
 
 # create client
 
-os.environ['QDRANT_HOST'] = "https://483d9ad2-9d5c-459d-b1e8-fc317b576c12.us-east-1-0.aws.cloud.qdrant.io:6333"
-os.environ['QDRANT_API_KEY'] = "eJ2CTsBQujaLX0Vzw9OTnwVENZJxV39j2IdQYyriCB2ztoyKFzTMEQ"
+os.environ['QDRANT_HOST'] = ""
+os.environ['QDRANT_API_KEY'] = ""
 
 
 client = qdrant_client.QdrantClient(
@@ -37,7 +37,7 @@ collection_config = qdrant_client.http.models.VectorParams(
 
 # create  vector store
 def get_vector_store():
-    os.environ['OPENAI_API_KEY'] = "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"
+    os.environ['OPENAI_API_KEY'] = ""
 
     embeddings = OpenAIEmbeddings()
 
