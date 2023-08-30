@@ -23,7 +23,10 @@ tiktoken
 
 ![image](https://github.com/Devansh968/Pdf-reader-langchain/assets/90167731/a73c3b18-88cd-493c-8a42-03c3d357e033)
 ![image](https://github.com/Devansh968/Pdf-reader-langchain/assets/90167731/494e1275-c11f-4fe1-8d03-ad869ea3dafc)
-![WhatsApp Image 2023-08-27 at 11 57 27 AM](https://github.com/Devansh968/Chat-with-Pdf-using-Qdrant-vector-database/assets/90167731/64d1c478-17ab-4054-8e37-901d204c509c)
+![ss 1](https://github.com/Devansh968/Chat-with-Pdf-using-Qdrant-vector-database/assets/90167731/1ad76771-c3c6-4fe8-8271-de8e0ef6a8b3)
+![ss 2](https://github.com/Devansh968/Chat-with-Pdf-using-Qdrant-vector-database/assets/90167731/171c153a-17d1-44ed-bc93-35305c1ebc13)
+![ss 3](https://github.com/Devansh968/Chat-with-Pdf-using-Qdrant-vector-database/assets/90167731/d290e5ed-82dd-4432-97b6-e3ccaa2d76f3)
+
 
 
 
